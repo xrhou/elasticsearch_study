@@ -1,2 +1,2 @@
 # elasticsearch_study
-elasticsearch顶尖高手洗脸学习视频, 文本还是好丑-中户石衫
+elasticsearch顶尖高手系列学习视频[学习笔记]-中华石衫
